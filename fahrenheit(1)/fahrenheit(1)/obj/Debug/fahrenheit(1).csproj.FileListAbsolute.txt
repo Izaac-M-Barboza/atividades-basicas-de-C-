@@ -1,0 +1,16 @@
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\bin\Debug\fahrenheit(1).exe.config
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\bin\Debug\fahrenheit(1).exe
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\bin\Debug\fahrenheit(1).pdb
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).csprojResolveAssemblyReference.cache
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit_1_.MainForm.resources
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).csproj.GenerateResource.Cache
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).exe
+E:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).pdb
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\bin\Debug\fahrenheit(1).exe.config
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\bin\Debug\fahrenheit(1).exe
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\bin\Debug\fahrenheit(1).pdb
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).csprojResolveAssemblyReference.cache
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit_1_.MainForm.resources
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).csproj.GenerateResource.Cache
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).exe
+D:\SharpDevelop Projects\fahrenheit(1)\fahrenheit(1)\obj\Debug\fahrenheit(1).pdb
